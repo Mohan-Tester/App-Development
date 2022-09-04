@@ -69,5 +69,9 @@ public class Login{
 
 Hide the last seen
 
+adding the audio
+
+adding the video
+
 		}
 	}
