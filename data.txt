@@ -67,5 +67,7 @@ public class Login{
 			Thread.sleep(2000);
 			driver.quit();
 
+Hide the last seen
+
 		}
 	}
